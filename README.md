@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub Logo](/images/logo.png)
+![Kyle Cordell Logo](/kc_se.png)
 
 <!--
 **kcords/kcords** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
