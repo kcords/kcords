@@ -29,3 +29,8 @@
 
 ### Tools / Other
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=plastic-square&logo=Webpack)
+![NPM](https://img.shields.io/badge/-NPM-black?style=plastic-square&logo=npm)
+![GIT](https://img.shields.io/badge/-GIT-black?style=plastic-square&logo=git)
+
+### Stats
+[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcords&theme=algolia)](https://github.com/kcords/github-readme-stats&show_icons=true)
