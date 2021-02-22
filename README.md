@@ -1,7 +1,7 @@
 ![Kyle Cordell Logo](photos/kyle_cordell_logo.jpg)
 
 #### Contact
-[![Linkedin Badge](https://img.shields.io/badge/-kcordell-black?style=plastic-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/kcordell/)](https://www.linkedin.com/in/kcordell/)
+[![Linkedin Badge](https://img.shields.io/badge/-kylecordell-black?style=plastic-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/kylecordell/)](https://www.linkedin.com/in/kylecordell/)
 
 #### Front End
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic-square&logo=html5)
