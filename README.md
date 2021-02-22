@@ -1,18 +1,27 @@
-![Kyle Cordell Logo](/kc_se.png)
+![Kyle Cordell Logo](photos/kyle_cordell_logo.jpg)
 
-<!--
-### Hi there 👋
+#### Contact
+[![Linkedin Badge](https://img.shields.io/badge/-kcordell-black?style=plastic-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/kcordell/)](https://www.linkedin.com/in/kcordell/)
 
-**kcords/kcords** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Front End
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=plastic-square&logo=react)
 
-Here are some ideas to get you started:
+#### Back End
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=plastic-square&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=plastic-square&logo=Express)
+![NGINX](https://img.shields.io/badge/-NGINX-black?style=plastic-square&logo=NGINX)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=plastic-square&logo=postgresql&logoColor=336791)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Implementation / Testing
+![Amazon AWS](https://img.shields.io/badge/AWS-black?style=plastic-square&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/-Docker-black?style=plastic-square&logo=docker)
+![CircleCI](https://img.shields.io/badge/-CircleCI-black?style=plastic-square&logo=CircleCI)
+![Jest](https://img.shields.io/badge/-Jest-black?style=plastic-square&logo=Jest&logoColor=C21325)
+
+#### Tools / Other
+![Webpack](https://img.shields.io/badge/-Webpack-black?style=plastic-square&logo=Webpack)
