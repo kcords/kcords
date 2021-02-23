@@ -2,7 +2,7 @@
 
 ### Welcome
 
-*Hello, and welcome to my GitHub. I am a software engineer who is committed to continual to learning and growth. With that being said, if you have any thoughts, feedback, suggestions, or if you'd like to collaborate on a project with me, feel free to reach out and let me know.*
+*Hello, and welcome to my GitHub. I am a software engineer who is committed to continual learning and growth. With that being said, if you have any thoughts, feedback, suggestions, or if you'd like to collaborate on a project with me, feel free to reach out and let me know.*
 
 [![Linkedin Badge](https://img.shields.io/badge/-kylecordell-black?style=plastic-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/kylecordell/)](https://www.linkedin.com/in/kylecordell/)
 
