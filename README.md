@@ -31,7 +31,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=plastic-square&logo=Webpack)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=plastic-square&logo=npm)
 ![GIT](https://img.shields.io/badge/-GIT-black?style=plastic-square&logo=git)
-<br>
+<br><br>
 
 ![Kyle's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kcords&theme=algolia&layout=compact)
 
