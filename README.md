@@ -33,4 +33,5 @@
 ![GIT](https://img.shields.io/badge/-GIT-black?style=plastic-square&logo=git)
 
 
-[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcords&theme=algolia&show_icons=true)](https://github.com/kcords/github-readme-stats)
+![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcords&theme=algolia&show_icons=true)
+![Kyle's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kcords&theme=algolia)
