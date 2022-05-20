@@ -22,6 +22,8 @@
 
 ![Amazon AWS](https://img.shields.io/badge/AWS-black?style=plastic-square&logo=amazon-aws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic-square&logo=docker)
+![Kafka](https://img.shields.io/badge/-Kafka-black?style=plastic-square&logo=kafka)
+![Terraform](https://img.shields.io/badge/-Terraform-black?style=plastic-square&logo=terraform)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-black?style=plastic-square&logo=CircleCI)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=plastic-square&logo=Jest&logoColor=C21325)
 
