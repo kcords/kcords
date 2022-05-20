@@ -16,7 +16,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=plastic-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=plastic-square&logo=Express)
 ![NGINX](https://img.shields.io/badge/-NGINX-black?style=plastic-square&logo=NGINX)
-![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=plastic-square&logo=GraphQL)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=plastic-square&logo=GraphQL&logoColor=E535AB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=plastic-square&logo=postgresql&logoColor=336791)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic-square&logo=mongodb)
