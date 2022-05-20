@@ -9,8 +9,8 @@
 ### Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=plastic-square&logo=react)
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=plastic-square&logo=Node.js)
