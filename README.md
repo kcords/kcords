@@ -7,11 +7,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-kylecordell-black?style=plastic-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/kylecordell/)](https://www.linkedin.com/in/kylecordell/)
 
 ### Technologies
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic-square&logo=css3&logoColor=1572B6)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=plastic-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic-square&logo=css3&logoColor=1572B6)
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=plastic-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=plastic-square&logo=Express)
