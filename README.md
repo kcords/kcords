@@ -34,6 +34,6 @@
 <br><br>
 
 
-![Kyle's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kcords&theme=algolia&layout=compact)
+![Kyle's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kcords&theme=algolia&layout=compact&count_private=true)
 
-![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcords&count_private=true&theme=algolia&show_icons=true&layout=compact)
+![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcords&count_private=true&theme=algolia&show_icons=true&layout=compact&count_private=true)
