@@ -2,11 +2,11 @@
 
 ### Welcome
 
-*Welcome to my GitHub profile! I'm Kyle Cordell, a software engineer with a background in network engineering and an Air Force veteran. Previously, I worked at Convoy, a startup in the freight industry, where I gained valuable experience in developing scalable user-facing applications. I utilized technologies like TypeScript, GraphQL, React, and others to deliver innovative solutions.
+Welcome to my GitHub profile! I'm Kyle Cordell, a software engineer with a background in network engineering and an Air Force veteran. Previously, I worked at Convoy, a startup in the freight industry, where I gained valuable experience in developing scalable user-facing applications. I utilized technologies like TypeScript, GraphQL, React, and others to deliver innovative solutions.
 
 What really excites me about software engineering is the opportunity to create applications that tackle complex problems and make a meaningful impact. I thrive on the challenge of finding elegant solutions and bringing them to life through code.
 
-If your company is in need of a dedicated and innovative software engineer, I would be thrilled to discuss how I can contribute to your success. I am also open to collaborating on exciting projects, so feel free to reach out and let's explore the possibilities together.*
+If your company is in need of a dedicated and innovative software engineer, I would be thrilled to discuss how I can contribute to your success. I am also open to collaborating on exciting projects, so feel free to reach out and let's explore the possibilities together.
 
 [![Linkedin Badge](https://img.shields.io/badge/-kylecordell-black?style=plastic-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/kylecordell/)](https://www.linkedin.com/in/kylecordell/)
 
