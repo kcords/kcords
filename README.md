@@ -32,8 +32,9 @@ If your company is in need of a dedicated and innovative software engineer, I wo
 ![CircleCI](https://img.shields.io/badge/-CircleCI-black?style=plastic-square&logo=CircleCI)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=plastic-square&logo=Jest&logoColor=C21325)
 
-![Webpack](https://img.shields.io/badge/-Webpack-black?style=plastic-square&logo=Webpack)
+![Yarn](https://img.shields.io/badge/-Yarn-black?style=plastic-square&logo=Yarn)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=plastic-square&logo=npm)
+![Webpack](https://img.shields.io/badge/-Webpack-black?style=plastic-square&logo=Webpack)
 ![GIT](https://img.shields.io/badge/-GIT-black?style=plastic-square&logo=git)
 <br><br>
 
