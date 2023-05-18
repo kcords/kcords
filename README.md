@@ -14,7 +14,7 @@ If your company is in need of a dedicated and innovative software engineer, I wo
 * ✉️  You can contact me at [kylegcordell@gmail.com](mailto:kylegcordell@gmail.com)
 * 🧠  I'm currently practicing my algo & DS challenges + system design for interview prep
 * 🤝  I'm open to collaborating on any project that's an interesting challenge, exciting, useful, or a great learning opportunity
-* ⚡  I love to make things and explore. This includes woodworking, making ice-cream, baking, gardening, paddle boarding, kayaking, hiking and camping
+* ⚡  In my free time, I love to make things and explore. This includes woodworking, making ice-cream, baking, gardening, paddle boarding, kayaking, hiking and camping
 
 ### Skills
 
