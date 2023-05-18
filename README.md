@@ -1,10 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kyle Cordell
+Hi 👋 My name is Kyle Cordell
 ====================================================================================================================================
 
-Full-stack Software Engineer
+Software Engineer [Full-stack]
 ----------------------------
 
-Prior to my work in software, my technical background started in the Air Force working on radar systems, then moving into network engineering in telecommunications. In my previous role, I worked at Convoy, a startup in the freight industry, where I gained valuable experience in developing scalable user-facing applications. I utilized technologies like TypeScript, GraphQL, React, and others to deliver innovative solutions. What excites me about software engineering is the opportunity to create applications that tackle complex problems and make a meaningful impact. I thrive on the challenge of finding elegant solutions and bringing them to life through code. If your company is in need of a dedicated and innovative software engineer, I would be thrilled to discuss how I can contribute to your success. I am also open to collaborating on exciting projects, so feel free to reach out and let's explore the possibilities together.
+Prior to my work in software, my technical background started in the Air Force working on radar systems, then moving into network engineering in telecommunications. In my previous role, I worked at Convoy, a startup in the freight industry, where I gained valuable experience in developing scalable user-facing applications. I utilized technologies like TypeScript, GraphQL, React, and others to deliver innovative solutions. 
+
+What excites me about software engineering is the opportunity to create applications that tackle complex problems and make a meaningful impact. I thrive on the challenge of finding elegant solutions and bringing them to life through code.
+
+If your company is in need of a dedicated and innovative software engineer, I would be thrilled to discuss how I can contribute to your success. I am also open to collaborating on exciting projects, so feel free to reach out and let's explore the possibilities together.
 
 * 🌍  I'm based in Seattle, WA
 * ✉️  You can contact me at [kylegcordell@gmail.com](mailto:kylegcordell@gmail.com)
