@@ -11,7 +11,7 @@ What excites me about software engineering is the opportunity to create applicat
 If your company is in need of a dedicated and innovative software engineer, I would be thrilled to discuss how I can contribute to your success. I am also open to collaborating on exciting projects, so feel free to reach out and let's explore the possibilities together.
 
 * 🌍  I'm based in Seattle, WA
-* ✉️  You can contact me at [kylegcordell@gmail.com](mailto:kylegcordell@gmail.com)
+* ✉️  You can contact me at [kcordell-git@outlook.com](kcordell-git@outlook.com)
 * 🧠  I'm currently in school pursuing a BS in Software Engineering, working on personal projects, and practicing my algo & DS challenges + system design for interview prep
 * 🤝  I'm open to collaborating on any project that's an interesting challenge, exciting, useful, or a great learning opportunity
 * ⚡  In my free time, I love to make things and explore. This includes woodworking, making ice-cream, baking, gardening, paddle boarding, kayaking, hiking and camping
